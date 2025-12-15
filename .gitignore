@@ -1,0 +1,7 @@
+MEPS_2021/**/*.ssp
+MEPS_2021/*.dat
+.Rhistory
+.RData
+.Rproj.user/
+.RDataTmp*
+
